@@ -52,3 +52,15 @@ display: block;
     display: flex;
     justify-content: space-between;
  }
+ .div-footer{
+    text-align: center;
+ }
+
+.footer-title{
+    color: #E55473;;
+font-size: 48px;
+font-weight: 800;
+}
+.title-color{
+    color:rgb(43, 33, 33);
+}
