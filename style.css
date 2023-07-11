@@ -1,0 +1,54 @@
+/* common sheared style */
+.body{
+    font-family: 'Open Sans', sans-serif;}
+
+    
+    .nav-on {
+        padding: 20px 20px 20px 100px;
+        display: flex;
+      /
+    }
+.nav-title{
+    color: #272727;
+font-size: 80px;
+display: block;
+.nav-discription{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+}
+.btn-primary{
+    color: #1f0c0c;
+    background:orange ;
+font-size: 20px;
+font-weight: 800;
+border-radius: 5px;
+border: 0;
+padding: 10px 20px;
+display: block;
+}
+.img-head{
+
+}
+ /* related section */
+ .flower-head{
+    
+ }
+
+ .flo-on{
+   background-color: rgb(250, 222, 222);
+ }
+ .flo-to{
+    background-color: rgb(190, 235, 220);
+ }
+ .flo-thr{
+    background-color: rgb(113, 150, 162);
+ }  
+ .flower-pro{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+ }
