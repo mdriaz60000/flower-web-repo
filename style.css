@@ -34,9 +34,18 @@ display: block;
 
 }
  /* related section */
- .flower-head{
-    
+ .contain{
+text-align: center;
  }
+ .contain-discription{
+    padding: 6px 10px;
+    margin-bottom: 0px;
+ }
+ .flower-head  {
+    margin-top: 50px;
+    margin-right: 50px;
+ } 
+ 
 
  .flo-on{
    background-color: rgb(250, 222, 222);
@@ -51,9 +60,51 @@ display: block;
     align-items: center;
     display: flex;
     justify-content: space-between;
+    gap: 5px;
+    margin-left:  50px;
+    margin-right:  50px;
  }
+ .big-flower{
+    margin-right: 50px;
+    margin-left:50px;
+    position: relative;
+ }
+ 
+ .first-text{
+    position: absolute;
+    top: 120px;
+    left: 550px;
+ }
+  .second-text{
+        position: absolute;
+        top: 150px;
+        left: 565px;
+    }
+    .third-text{
+        position: absolute;
+        top: 220px;
+        left: 500px;
+        padding: 5px 80px;
+    }
+    .btn{
+        position: absolute;
+        top: 215px;
+        right:220px ;
+        color: #1f0c0c;
+        background:orange ;
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 5px;
+    border: 0;
+    padding: 4px 8px;
+    display: block;
+
+    }
+
  .div-footer{
     text-align: center;
+    background-color: aqua;
+    gap: 1px;
  }
 
 .footer-title{
